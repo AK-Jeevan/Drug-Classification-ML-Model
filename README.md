@@ -34,14 +34,6 @@ Each record is labeled with the drug prescribed.
 🧠 Models Used
 Logistic Regression
 
-Decision Tree
-
-Random Forest
-
-Support Vector Machine (SVM)
-
-K-Nearest Neighbors (KNN)
-
 📈 Evaluation Metrics
 Accuracy Score
 
